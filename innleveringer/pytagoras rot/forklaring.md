@@ -1,6 +1,6 @@
-#Hvordan koden fungerer:
-###v1
-####Funksjonene
+# Hvordan koden fungerer:
+### v1
+#### Funksjonene
 
 ````
 def getint():
@@ -16,7 +16,7 @@ def getint():
 Funksjonen henter en input fra brukeren og sørger for at det er et heltall. <br>
 Får den ikke det prøver den på nytt til den får det. <br>
 
-####Hovedfunksjonen
+#### Hovedfunksjonen
 
 ```
 for i in range(pressisjon):
@@ -44,10 +44,10 @@ Deretter looper koden og man fortsetter helt til man har gjort det like mange ga
 
 På den måten vil man hele tiden nerme seg tallet som er roten av **tall**.
 
-##v2
+## v2
 
 
-####Funksjonene
+#### Funksjonene
 
 ````
 def getint():
@@ -91,7 +91,7 @@ def getdiff(x, y):
     return x
 ````
 Funksjonen finner absoluttverdien av differansen mellom to tall. altså den possitive verdien av differansen mellom input x og y.
-####Hovedfunksjonen
+#### Hovedfunksjonen
 
 ```
 while True:
