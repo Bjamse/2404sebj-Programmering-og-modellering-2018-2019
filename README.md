@@ -10,4 +10,7 @@ eller
 > py -m pip install pygame
 
 Moduler som er i bruk nå er:
->pygame <br>
+- pygame
+- sympy
+- matplotlib
+- numpy
