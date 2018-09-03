@@ -52,6 +52,6 @@ while True:
         ltall = res
 
     if getdiff(res**2, tall) < feilmargin:
-        print("feilmarginen feilmarginen ble nådd.\n", "Roten av ", tall, " er omtrent ", res, "\n", res, " * ", res, " = ", res**2)
+        print("kravet om feilmarginen ", feilmargin , " ble nådd.\n", "Roten av ", tall, " er omtrent ", res, "  fordi :\n", res, " * ", res, " = ", res**2)
         break
 
