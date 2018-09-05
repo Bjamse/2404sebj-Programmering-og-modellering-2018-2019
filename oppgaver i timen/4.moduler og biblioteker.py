@@ -67,4 +67,17 @@ print()
 print("oppgave 4")
 print()
 
-print("hæææ?")
+a = getfloat()
+b = getfloat()
+
+
+x = np.arange(0.0, 10.0, 0.01)
+y = np.sin(a*x)*b
+plt.plot(x, y)
+
+plt.xlabel('x')
+plt.ylabel('y)')
+plt.title('sinus(ax)*b')
+plt.grid(True)
+plt.savefig("output.png")
+plt.show()
