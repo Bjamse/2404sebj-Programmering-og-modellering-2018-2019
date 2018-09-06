@@ -57,7 +57,7 @@ y = a*x**2 + b*x + c
 plt.plot(x, y)
 
 plt.xlabel('x')
-plt.ylabel('y)')
+plt.ylabel('y')
 plt.title('{}*x^2 + {}*x + {}'.format(a,b,c))
 plt.grid(True)
 plt.savefig("output.png")
@@ -76,7 +76,7 @@ y = np.sin(a*x)*b
 plt.plot(x, y)
 
 plt.xlabel('x')
-plt.ylabel('y)')
+plt.ylabel('y')
 plt.title('sinus(ax)*b')
 plt.grid(True)
 plt.savefig("output.png")
