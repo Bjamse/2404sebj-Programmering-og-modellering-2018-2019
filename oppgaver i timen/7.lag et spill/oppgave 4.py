@@ -1,7 +1,7 @@
 """
 
 
-dette er ikke fint koda...
+dette er ikke fint koda og jeg vet ikke om det svarer på spørsmålet engang.. i tilleg vil jeg si det er  mindre effektivt enn
 koden skal bli oppdatert i fremtiden men intil videre så fungerer den... :D
 
 
