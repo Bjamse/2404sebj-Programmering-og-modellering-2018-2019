@@ -8,6 +8,7 @@ F.eks. for å instalere pygame:
 
 eller
 > python -m pip install pygame --user
+
 er du adimn skal det ikke være nødvendig med --user
 
 Moduler som er i bruk nå er:
