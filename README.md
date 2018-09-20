@@ -16,3 +16,4 @@ Moduler som er i bruk nå er:
 - sympy
 - matplotlib
 - numpy
+- jupyter
