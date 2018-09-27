@@ -14,6 +14,8 @@ def getfloat():
     print()
     return x
 
+
+
 print()
 print("oppgave 1")
 print()
