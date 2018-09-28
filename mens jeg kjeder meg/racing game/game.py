@@ -1,5 +1,5 @@
 import sys, pygame
-import funcfile
+from funcfile import *
 pygame.init()
 t = 0
 x = 1
@@ -8,19 +8,20 @@ speed = [0, 0]
 black = 0, 0, 0
 screen = pygame.display.set_mode(size)
 
-car = pygame.image.load("images/car.png")
+car = pygame.image.load("images/car2.png")
 carRect = car.get_rect()
 carRect = carRect.move(width / 2 - 100, height - 200)
 
 wall = pygame.Surface((50,50))
 wall.fill((255,255,255))
 wallrect = wall.get_rect()
-wallrect = wallrect.move(funcfile.randomplace())
+wallrect = wallrect.move(randomplace())
 
 score = 0
 
-def printscore(s):
-    print(s)
+def printscore():
+    global score
+    print(score)
 
 def movecar():
     global carRect, speed
@@ -30,7 +31,7 @@ def movecar():
         speed = [x, 0]
     elif (pygame.key.get_pressed()[pygame.K_DOWN]):
         speed = [0, 0]
-    if (carRect.left + speed[0] < -55 or carRect.right + speed[0] > width + 55):
+    if (carRect.left + speed[0] <0 or carRect.right + speed[0] > width):
         speed[0] = 0
     carRect = carRect.move(speed)
 
@@ -39,10 +40,11 @@ def moveWall():
     global wallrect, score
     wallrect= wallrect.move([0,1])
 
-    if wallrect[1] <= height :
+    if wallrect[1] >= height:
         score += 1
-        x,y = funcfile.randomplace()
-        wallrect.move([-wallrect[0]+x,y-wallrect[1]])
+        printscore()
+        x,y = randomplace()
+        wallrect = wallrect.move([x-wallrect[0], -wallrect[1]])
 
 
 
@@ -55,8 +57,6 @@ while True:
     movecar()
 
     moveWall()
-
-    printscore(score)
 
     screen.fill(black)
     screen.blit(car, carRect)

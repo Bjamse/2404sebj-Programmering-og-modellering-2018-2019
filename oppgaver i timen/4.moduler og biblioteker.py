@@ -3,7 +3,6 @@ import sympy
 import matplotlib.pyplot as plt
 import numpy as np
 
-
 def getfloat():
     while True:
         try:
@@ -18,6 +17,9 @@ print()
 print("oppgave 1")
 print()
 
+
+
+
 kupong = []
 temp = 0
 for i in range(7):
@@ -29,6 +31,10 @@ for i in range(7):
         break
 
 print("Vinnertallene var = ", kupong)
+
+
+
+
 
 print()
 print("oppgave 2")
