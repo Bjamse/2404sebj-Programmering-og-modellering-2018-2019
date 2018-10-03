@@ -18,9 +18,9 @@ y = fdx1 * x-fdx1 * x_en + fx1
 
 x = np.arange(0.0, 10.0, 0.01)
 
-#måtte definere f og y fordi vi fikk nye x-er itilleg var de gamle funksjonene liksom sånne sympy funksjoner. så de måtte
+# måtte definere f og y fordi vi fikk nye x-er itilleg var de gamle funksjonene liksom sånne sympy funksjoner. så de måtte
 # ha den nye x verdien får å funke
-#rettere sagt, jeg fårstår hvorfåp men kan ikke forkalre
+# rettere sagt, jeg fårstår hvorfåp men kan ikke forkalre
 
 f = a*x**2 + b*x + c
 
