@@ -15,7 +15,7 @@ def fibAll(n, z=996):
     return n
 
 
-print(fibAll([0, 1]))
+print(fibAll([1, 1]))
 
 
 # skal du ha et spesifikt tall bruker du den under
@@ -66,3 +66,5 @@ print(fib(10))
 # oppgave a
 for i in range(2, 150):
     print(fib(i)/fib(i-1))
+# du kan tydelig se at outputen blir det gyldne snitt etterhvert men koden bruker veldig! lang tid på å bli færdig!
+# det hadde vært mye raskere å prionte ut en liste for akkurat det ene
