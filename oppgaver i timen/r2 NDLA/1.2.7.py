@@ -11,5 +11,8 @@ vektorC = numpy.array([-1, -6])
 sumA = 3*vektorA + 2*vektorB - 4*vektorC
 # b)
 sumB = -5*vektorA + 3*vektorC - 4*vektorB
+
+# utskrift
+
 print("a = {} \nb = {} \nc = {}".format(vektorA, vektorB, vektorC))
-print("a)\n 3*a + 2*b - 4*c = {}\nb)\n -*a + 3*c - 4*b = {}".format(sumA,sumB))
+print("a)\n 3*a + 2*b - 4*c = {}\nb)\n -5*a + 3*c - 4*b = {}".format(sumA, sumB))
