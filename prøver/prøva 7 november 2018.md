@@ -1,0 +1,7 @@
+- Det som er fra læreboka
+- OE03 i newtons metode
+- Matplotlib2 
+- OE10
+- Regne arealet av en trekant vektorregning
+- Ligger punkter på linje
+- I 3d : kryssproduktet er lik null så er de parralelle hvis a vektor og b vekot er mer enn 0
