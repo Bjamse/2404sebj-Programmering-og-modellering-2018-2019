@@ -1,7 +1,7 @@
-- Det som er fra læreboka
+- filene som er fra læreboka
 - OE03 i newtons metode
-- Matplotlib2 
-- OE10
+- Matplotlib2.py (fila) 
+- OE10.py (fila)
 - Regne arealet av en trekant vektorregning
 - Ligger punkter på linje
-- I 3d : kryssproduktet er lik null så er de parralelle hvis a vektor og b vekot er mer enn 0
+- I 3d : kryssproduktet er lik null så er de parralelle hvis a vektor og b vektor er mer enn 0
