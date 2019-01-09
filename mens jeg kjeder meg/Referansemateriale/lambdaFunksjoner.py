@@ -8,6 +8,6 @@ print(dobbelt(3))
 """
 syntax:
 
-lambda <argument> : <handling med argument>
+lambda <parameter> : <handling med argument>
 
 """
