@@ -22,14 +22,14 @@ timer_txt = pygame.font.SysFont('Consolas', 30)
 
 
 tank_params = {
-    "left": CENTER_HORIZ - 50, # Trekker fra halvparten av bredden
-    "top": CENTER_VERT - 50,   # Trekker fra halvparten av høyden
-    "width": 100,              # Tankens høyde
-    "height": 100,             # Tankens bredde
-    "level": 10,               # Nivået vi starter med
-    "fill_color": SEA_BLUE,    # Farge på innholdet i tanken
-    "outline_color": WHITE,    # Farge på omrisset av tanken
-    "border_width": 3          # Bredde på omrisset av tanken
+    "left": CENTER_HORIZ - 50,  # Trekker fra halvparten av bredden
+    "top": CENTER_VERT - 50,    # Trekker fra halvparten av høyden
+    "width": 100,               # Tankens høyde
+    "height": 100,              # Tankens bredde
+    "level": 10,                # Nivået vi starter med
+    "fill_color": SEA_BLUE,     # Farge på innholdet i tanken
+    "outline_color": WHITE,     # Farge på omrisset av tanken
+    "border_width": 3           # Bredde på omrisset av tanken
 }
 
 # Endring av nivå mellom hvert bilde som vises (FPS)
