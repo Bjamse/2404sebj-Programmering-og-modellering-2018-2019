@@ -1,0 +1,1169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="85cc4465-644e-42ea-ae23-14d5b92b56c9" name="Default" comment="...">
+      <change beforePath="$PROJECT_DIR$/oppgaver i timen/pygame/vanntank/animasjon med stopp og kloss.py" beforeDir="false" afterPath="$PROJECT_DIR$/oppgaver i timen/pygame/vanntank/animasjon med stopp og kloss.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$natas10.coverage" NAME="natas10 Coverage Results" MODIFIED="1538041222535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mens jeg kjeder meg/over the wire/natas" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$lese_fra_filer.coverage" NAME="lese fra filer Coverage Results" MODIFIED="1545211039383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oppgaver i timen/fra tavla" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$bitarray.coverage" NAME="bitarray Coverage Results" MODIFIED="1541581187081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mens jeg kjeder meg/test av rare ting og moduler/bibiliotek" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$oppgave_4.coverage" NAME="oppgave 4 Coverage Results" MODIFIED="1536232489079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oppgaver i timen/7.lag et spill" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$animasjon_med_stopp_og_kloss.coverage" NAME="animasjon med stopp og kloss Coverage Results" MODIFIED="1550052300335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oppgaver i timen/pygame/vanntank" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$Opg2b.coverage" NAME="Opg2b Coverage Results" MODIFIED="1541590652932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prøver/prøva.7.11.2018" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$fri_tapping.coverage" NAME="fri tapping Coverage Results" MODIFIED="1547632417211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oppgaver i timen/pygame/vanntank" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$oppg2c.coverage" NAME="oppg2c Coverage Results" MODIFIED="1542963702309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prøver/prøva.23.11.2018" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$animasjon_med_stopp.coverage" NAME="animasjon med stopp Coverage Results" MODIFIED="1550048695574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oppgaver i timen/pygame/vanntank" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$opp2d.coverage" NAME="opp2d Coverage Results" MODIFIED="1542962002963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prøver/prøva.23.11.2018" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$natas0.coverage" NAME="natas0 Coverage Results" MODIFIED="1538038923624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mens jeg kjeder meg/over the wire/natas" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$1_3_5.coverage" NAME="1.3.5 Coverage Results" MODIFIED="1540368992095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oppgaver i timen/r2 NDLA" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$Opg2abcd.coverage" NAME="Opg2abcd Coverage Results" MODIFIED="1541583897970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prøver/prøva.7.11.2018" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$oppg1d.coverage" NAME="oppg1d Coverage Results" MODIFIED="1542963598041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prøver/prøva.23.11.2018" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$animasjon_av_vanntank.coverage" NAME="animasjon av vanntank Coverage Results" MODIFIED="1547632359606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oppgaver i timen/pygame/vanntank" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$oppgave5.coverage" NAME="oppgave5 Coverage Results" MODIFIED="1538555479732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oppgaver i timen/oppgaver ITX sept18" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$eksempel.coverage" NAME="eksempel Coverage Results" MODIFIED="1542185740953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oppgaver i timen/optimalisering" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$natas3.coverage" NAME="natas3 Coverage Results" MODIFIED="1538040354295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mens jeg kjeder meg/over the wire/natas" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$oppg2f.coverage" NAME="oppg2f Coverage Results" MODIFIED="1542963883909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prøver/prøva.23.11.2018" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$rot_med_pytagoras_metoden_v2_x.coverage" NAME="rot med pytagoras metoden_v2.x Coverage Results" MODIFIED="1535965175002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/innleveringer/pytagoras rot" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$matriser3.coverage" NAME="matriser3 Coverage Results" MODIFIED="1539769054842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oppgaver i timen/fra tavla" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$natas4.coverage" NAME="natas4 Coverage Results" MODIFIED="1538040743117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mens jeg kjeder meg/over the wire/natas" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$oppgave3.coverage" NAME="oppgave3 Coverage Results" MODIFIED="1538116254545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oppgaver i timen/oppgaver ITX sept18" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$oppg2b.coverage" NAME="oppg2b Coverage Results" MODIFIED="1542963684816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prøver/prøva.23.11.2018" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$matriser2.coverage" NAME="matriser2 Coverage Results" MODIFIED="1539764395703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oppgaver i timen/fra tavla" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$Opg2abcd__1_.coverage" NAME="Opg2abcd (1) Coverage Results" MODIFIED="1542955752072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prøver/prøva.7.11.2018" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$life.coverage" NAME="life Coverage Results" MODIFIED="1546419197545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mens jeg kjeder meg" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$es149.coverage" NAME="es149 Coverage Results" MODIFIED="1544004482413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oppgaver i timen/optimalisering" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$oppg1a.coverage" NAME="oppg1a Coverage Results" MODIFIED="1542963537896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prøver/prøva.23.11.2018" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$3_funksjoner.coverage" NAME="3.funksjoner Coverage Results" MODIFIED="1536134470014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oppgaver i timen" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$animasjon_av_modeller.coverage" NAME="animasjon av modeller Coverage Results" MODIFIED="1547631905334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oppgaver i timen/pygame/animasjon av modeller" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$7_Lag_et_spill.coverage" NAME="7.Lag et spill Coverage Results" MODIFIED="1536141889861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oppgaver i timen" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$game.coverage" NAME="game Coverage Results" MODIFIED="1540368099531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mens jeg kjeder meg/racing game" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$natas5.coverage" NAME="natas5 Coverage Results" MODIFIED="1538113704290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mens jeg kjeder meg/over the wire/natas" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$oppgave4.coverage" NAME="oppgave4 Coverage Results" MODIFIED="1539762340472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oppgaver i timen/oppgaver ITX sept18" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$test.coverage" NAME="test Coverage Results" MODIFIED="1548333337180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mens jeg kjeder meg/test av rare ting og moduler" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$fotball.coverage" NAME="fotball Coverage Results" MODIFIED="1547631174761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oppgaver i timen/pygame/fotball" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$konstant_tapping_en_tank.coverage" NAME="konstant tapping en tank Coverage Results" MODIFIED="1547632426299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oppgaver i timen/pygame/vanntank" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$oppgave1.coverage" NAME="oppgave1 Coverage Results" MODIFIED="1539765714250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oppgaver i timen/oppgaver ITX sept18/spesielle oppgaver" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$4_moduler_og_biblioteker.coverage" NAME="4.moduler og biblioteker Coverage Results" MODIFIED="1539762267792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oppgaver i timen/fagstoff-introduksjon-i-python" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$matriser1.coverage" NAME="matriser1 Coverage Results" MODIFIED="1539764080403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oppgaver i timen/fra tavla" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$1_2_10.coverage" NAME="1.2.10 Coverage Results" MODIFIED="1540368124119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oppgaver i timen/r2 NDLA" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$oppg2d.coverage" NAME="oppg2d Coverage Results" MODIFIED="1542963711509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prøver/prøva.23.11.2018" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$oppg2a.coverage" NAME="oppg2a Coverage Results" MODIFIED="1544604357436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prøver/prøva.23.11.2018" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$frames.coverage" NAME="frames Coverage Results" MODIFIED="1542955772820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mens jeg kjeder meg/test av rare ting og moduler/tkinter" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$ny_fil.coverage" NAME="ny fil Coverage Results" MODIFIED="1544179013296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oppgaver i timen/optimalisering" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$es160.coverage" NAME="es160 Coverage Results" MODIFIED="1548841728610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oppgaver i timen/læreboka" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$Opg1a.coverage" NAME="Opg1a Coverage Results" MODIFIED="1541583318904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prøver/prøva.7.11.2018" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$oppg1b.coverage" NAME="oppg1b Coverage Results" MODIFIED="1542963551484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prøver/prøva.23.11.2018" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$1_4_1.coverage" NAME="1.4.1 Coverage Results" MODIFIED="1540369793404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oppgaver i timen/r2 NDLA" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$batteristatus.coverage" NAME="batteristatus Coverage Results" MODIFIED="1546422004276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oppgaver i timen/fra tavla/filer/elbil" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$natas1.coverage" NAME="natas1 Coverage Results" MODIFIED="1538039240523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mens jeg kjeder meg/over the wire/natas" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$integrasjon.coverage" NAME="integrasjon Coverage Results" MODIFIED="1547795996273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oppgaver i timen/plotting/integrering" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$oppg2e.coverage" NAME="oppg2e Coverage Results" MODIFIED="1542963782919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prøver/prøva.23.11.2018" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$spredningsplott.coverage" NAME="spredningsplott Coverage Results" MODIFIED="1547629738999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oppgaver i timen/plotting/spredningsplott" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$bilberegn1_2.coverage" NAME="bilberegn1.2 Coverage Results" MODIFIED="1547031251093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oppgaver i timen/fra tavla/filer/elbil2.0" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$oppg1c.coverage" NAME="oppg1c Coverage Results" MODIFIED="1542963586937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prøver/prøva.23.11.2018" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$bilberegn.coverage" NAME="bilberegn Coverage Results" MODIFIED="1547030427273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oppgaver i timen/fra tavla/filer/elbil2.0" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$0__opprinnelig_kode_fra_oppgave.coverage" NAME="0. opprinnelig kode fra oppgave Coverage Results" MODIFIED="1537951170855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oppgaver i timen/7.lag et spill" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$hello_World.coverage" NAME="hello World Coverage Results" MODIFIED="1542955760482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mens jeg kjeder meg/test av rare ting og moduler/tkinter" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$derivasjon.coverage" NAME="derivasjon Coverage Results" MODIFIED="1544003569338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oppgaver i timen" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$5_tegne_grafer.coverage" NAME="5.tegne grafer Coverage Results" MODIFIED="1536141881925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oppgaver i timen" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$com.coverage" NAME="com Coverage Results" MODIFIED="1544608596259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mens jeg kjeder meg/test av rare ting og moduler" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$skrive_til_filer.coverage" NAME="skrive til filer Coverage Results" MODIFIED="1545210977721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oppgaver i timen/fra tavla" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$oppgave2.coverage" NAME="oppgave2 Coverage Results" MODIFIED="1539765227131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oppgaver i timen/oppgaver ITX sept18/spesielle oppgaver" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$es149DiffEyler.coverage" NAME="es149DiffEyler Coverage Results" MODIFIED="1548333329963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oppgaver i timen/filene til frode" />
+    <SUITE FILE_PATH="coverage/2404sebj_Programmering_og_modellering_2018_2019$natas2.coverage" NAME="natas2 Coverage Results" MODIFIED="1538039672546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mens jeg kjeder meg/over the wire/natas" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="2404sebj-Programmering-og-modellering-2018-2019" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/oppgaver i timen/pygame/vanntank/animasjon med stopp og kloss.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="137">
+              <caret line="80" column="24" selection-start-line="80" selection-start-column="24" selection-end-line="80" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mens jeg kjeder meg/racing game/game.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="35" column="23" lean-forward="true" selection-start-line="34" selection-start-column="4" selection-end-line="35" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>wallrect</find>
+      <find>print</find>
+      <find>,</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>.</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/mens jeg kjeder meg/test av rare ting og moduler/bibiliotek/bitarrays.py" />
+        <option value="$PROJECT_DIR$/prøver/prøva.7.11.2018/Opg1a).py" />
+        <option value="$PROJECT_DIR$/prøver/prøva.7.11.2018/Opg1a.py" />
+        <option value="$PROJECT_DIR$/prøver/prøva.7.11.2018/Opg2b.py" />
+        <option value="$PROJECT_DIR$/oppgaver i timen/optimalisering/eksempel.py" />
+        <option value="$PROJECT_DIR$/prøver/prøva.7.11.2018/Opg2abcd.py" />
+        <option value="$PROJECT_DIR$/prøver/prøva.7.11.2018/Opg2a.py" />
+        <option value="$PROJECT_DIR$/prøver/prøva.23.11.2018/oppg1.py" />
+        <option value="$PROJECT_DIR$/prøver/prøva.23.11.2018/oppg1a.py" />
+        <option value="$PROJECT_DIR$/prøver/prøva.23.11.2018/oppg1b.py" />
+        <option value="$PROJECT_DIR$/prøver/prøva.23.11.2018/oppg1c.py" />
+        <option value="$PROJECT_DIR$/prøver/prøva.23.11.2018/oppg1d.py" />
+        <option value="$PROJECT_DIR$/prøver/prøva.23.11.2018/oppg2b.py" />
+        <option value="$PROJECT_DIR$/prøver/prøva.23.11.2018/oppg2c.py" />
+        <option value="$PROJECT_DIR$/prøver/prøva.23.11.2018/opp2d.py" />
+        <option value="$PROJECT_DIR$/prøver/prøva.23.11.2018/oppg2e.py" />
+        <option value="$PROJECT_DIR$/prøver/prøva.23.11.2018/oppg2a.py" />
+        <option value="$PROJECT_DIR$/prøver/prøva.23.11.2018/oppg2d.py" />
+        <option value="$PROJECT_DIR$/prøver/prøva.23.11.2018/oppg2f.py" />
+        <option value="$PROJECT_DIR$/oppgaver i timen/derivasjon.py" />
+        <option value="$PROJECT_DIR$/oppgaver i timen/vanntank/konstant tapping en tank.py" />
+        <option value="$PROJECT_DIR$/oppgaver i timen/vanntank/fri tapping.py" />
+        <option value="$PROJECT_DIR$/oppgaver i timen/optimalisering/es149.py" />
+        <option value="$PROJECT_DIR$/oppgaver i timen/optimalisering/ny fil.py" />
+        <option value="$PROJECT_DIR$/oppgaver i timen/vanntank/animasjon av vanntank.py" />
+        <option value="$PROJECT_DIR$/mens jeg kjeder meg/test av rare ting og moduler/com.py" />
+        <option value="$PROJECT_DIR$/oppgaver i timen/fra tavla/matriser3.py" />
+        <option value="$PROJECT_DIR$/oppgaver i timen/fra tavla/skrive til filer.py" />
+        <option value="$PROJECT_DIR$/oppgaver i timen/fra tavla/lese fra filer.py" />
+        <option value="$PROJECT_DIR$/oppgaver i timen/fra tavla/filer/elbil/forbruk" />
+        <option value="$PROJECT_DIR$/oppgaver i timen/fra tavla/filer/elbil/batteristatus med with.py" />
+        <option value="$PROJECT_DIR$/oppgaver i timen/fra tavla/filer/elbil/batteristatus.py" />
+        <option value="$PROJECT_DIR$/mens jeg kjeder meg/Referansemateriale/lambdaFunksjoner.py" />
+        <option value="$PROJECT_DIR$/oppgaver i timen/fra tavla/filer/elbil2.0/logfil" />
+        <option value="$PROJECT_DIR$/oppgaver i timen/fra tavla/filer/elbil2.0/bilberegn.py" />
+        <option value="$PROJECT_DIR$/oppgaver i timen/fra tavla/filer/elbil2.0/bilberegn1.0.py" />
+        <option value="$PROJECT_DIR$/oppgaver i timen/fra tavla/filer/elbil2.0/bilberegn1.1.py" />
+        <option value="$PROJECT_DIR$/oppgaver i timen/fra tavla/filer/elbil2.0/bilberegn1.2.py" />
+        <option value="$PROJECT_DIR$/oppgaver i timen/fra tavla/filer/elbil2.0/bilberegn1.3.py" />
+        <option value="$PROJECT_DIR$/oppgaver i timen/plotting/spredningsplott/spredningsplott.ipynb" />
+        <option value="$PROJECT_DIR$/oppgaver i timen/plotting/spredningsplott/spredningsplott.py" />
+        <option value="$PROJECT_DIR$/oppgaver i timen/pygame/fotball/fotball.py" />
+        <option value="$PROJECT_DIR$/oppgaver i timen/pygame/animasjon av modeller/animasjon av modeller.py" />
+        <option value="$PROJECT_DIR$/oppgaver i timen/pygame/vanntank/animasjon av vanntank.py" />
+        <option value="$PROJECT_DIR$/oppgaver i timen/plotting/integrering/integrasjon.py" />
+        <option value="$PROJECT_DIR$/oppgaver i timen/forklaring eulers metode" />
+        <option value="$PROJECT_DIR$/oppgaver i timen/filene til frode/es149DiffEyler.py" />
+        <option value="$PROJECT_DIR$/mens jeg kjeder meg/test av rare ting og moduler/test.py" />
+        <option value="$PROJECT_DIR$/oppgaver i timen/læreboka/es160.py" />
+        <option value="$PROJECT_DIR$/oppgaver i timen/pygame/vanntank/animasjon med stopp.py" />
+        <option value="$PROJECT_DIR$/oppgaver i timen/pygame/vanntank/animasjon med stopp og kloss.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="2404sebj-Programmering-og-modellering-2018-2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2404sebj-Programmering-og-modellering-2018-2019" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2404sebj-Programmering-og-modellering-2018-2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2404sebj-Programmering-og-modellering-2018-2019" type="462c0819:PsiDirectoryNode" />
+              <item name="mens jeg kjeder meg" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2404sebj-Programmering-og-modellering-2018-2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2404sebj-Programmering-og-modellering-2018-2019" type="462c0819:PsiDirectoryNode" />
+              <item name="mens jeg kjeder meg" type="462c0819:PsiDirectoryNode" />
+              <item name="racing game" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2404sebj-Programmering-og-modellering-2018-2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2404sebj-Programmering-og-modellering-2018-2019" type="462c0819:PsiDirectoryNode" />
+              <item name="oppgaver i timen" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2404sebj-Programmering-og-modellering-2018-2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2404sebj-Programmering-og-modellering-2018-2019" type="462c0819:PsiDirectoryNode" />
+              <item name="oppgaver i timen" type="462c0819:PsiDirectoryNode" />
+              <item name="læreboka" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2404sebj-Programmering-og-modellering-2018-2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2404sebj-Programmering-og-modellering-2018-2019" type="462c0819:PsiDirectoryNode" />
+              <item name="oppgaver i timen" type="462c0819:PsiDirectoryNode" />
+              <item name="pygame" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2404sebj-Programmering-og-modellering-2018-2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2404sebj-Programmering-og-modellering-2018-2019" type="462c0819:PsiDirectoryNode" />
+              <item name="oppgaver i timen" type="462c0819:PsiDirectoryNode" />
+              <item name="pygame" type="462c0819:PsiDirectoryNode" />
+              <item name="vanntank" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="rep&#9;ACTION&#9;Replace" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\2404sebj\Documents\git\2404sebj-Programmering-og-modellering-2018-2019\innleveringer" />
+      <recent name="C:\Users\2404sebj\Documents\git\2404sebj-Programmering-og-modellering-2018-2019\oppgaver i timen\pygame" />
+      <recent name="C:\Users\2404sebj\Documents\git\2404sebj-Programmering-og-modellering-2018-2019\oppgaver i timen\plotting" />
+      <recent name="C:\Users\2404sebj\Documents\git\2404sebj-Programmering-og-modellering-2018-2019\oppgaver i timen\fra tavla\filer" />
+      <recent name="C:\Users\2404sebj\Documents\git\2404sebj-Programmering-og-modellering-2018-2019\oppgaver i timen\fra tavla\matriser" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\2404sebj\Documents\git\2404sebj-Programmering-og-modellering-2018-2019\oppgaver i timen\fra tavla\filer\elbil" />
+      <recent name="C:\Users\2404sebj\Documents\git\2404sebj-Programmering-og-modellering-2018-2019\mens jeg kjeder meg\test av rare ting og moduler\dist\test" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.animasjon med stopp og kloss">
+    <configuration name="2404sebj-Programmering-og-modellering-2018-2019" type="JupiterNotebook" factoryName="Jupyter Notebook">
+      <module name="2404sebj-Programmering-og-modellering-2018-2019" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="additionalOptions" value="" />
+      <option name="ipnbHost" value="127.0.0.1" />
+      <option name="ipnbPort" value="8888" />
+      <method v="2" />
+    </configuration>
+    <configuration name="animasjon med stopp og kloss" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="2404sebj-Programmering-og-modellering-2018-2019" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oppgaver i timen/pygame/vanntank" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oppgaver i timen/pygame/vanntank/animasjon med stopp og kloss.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="animasjon med stopp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="2404sebj-Programmering-og-modellering-2018-2019" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oppgaver i timen/pygame/vanntank" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\2404sebj\Documents\git\2404sebj-Programmering-og-modellering-2018-2019\oppgaver i timen\pygame\vanntank\animasjon med stopp og kloss.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="es149DiffEyler" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="2404sebj-Programmering-og-modellering-2018-2019" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oppgaver i timen/filene til frode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oppgaver i timen/filene til frode/es149DiffEyler.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="es160" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="2404sebj-Programmering-og-modellering-2018-2019" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oppgaver i timen/læreboka" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oppgaver i timen/læreboka/es160.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="2404sebj-Programmering-og-modellering-2018-2019" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mens jeg kjeder meg/test av rare ting og moduler" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mens jeg kjeder meg/test av rare ting og moduler/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Jupyter Notebook.2404sebj-Programmering-og-modellering-2018-2019" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.es149DiffEyler" />
+      <item itemvalue="Python.es160" />
+      <item itemvalue="Python.animasjon med stopp" />
+      <item itemvalue="Python.animasjon med stopp og kloss" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.animasjon med stopp og kloss" />
+        <item itemvalue="Python.animasjon med stopp" />
+        <item itemvalue="Python.es160" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.es149DiffEyler" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85cc4465-644e-42ea-ae23-14d5b92b56c9" name="Default" comment="" />
+      <created>1535748156980</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1535748156980</updated>
+      <workItem from="1549443002765" duration="4694000" />
+      <workItem from="1550047429959" duration="5513000" />
+    </task>
+    <task id="LOCAL-00001" summary="adding original files to projekt">
+      <created>1535748511685</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1535748511685</updated>
+    </task>
+    <task id="LOCAL-00002" summary="typo">
+      <created>1535965261507</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1535965261507</updated>
+    </task>
+    <task id="LOCAL-00003" summary="typo">
+      <created>1536133582642</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1536133582642</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fiksa oppg.1 og fullførte oppgave 4">
+      <created>1536137837178</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1536137837178</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fiksa oppg.1 og fullførte oppgave 4">
+      <created>1536138618684</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1536138618684</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fiksa oppg.1 og fullførte oppgave 4">
+      <created>1536141147090</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1536141147090</updated>
+    </task>
+    <task id="LOCAL-00007" summary="jobba med oppgave 1-4 kapittel 7">
+      <created>1536148517080</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1536148517080</updated>
+    </task>
+    <task id="LOCAL-00008" summary="skrev litt til i kommentaren">
+      <created>1536232239778</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1536232239778</updated>
+    </task>
+    <task id="LOCAL-00009" summary="typo">
+      <created>1536233194672</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1536233194672</updated>
+    </task>
+    <task id="LOCAL-00010" summary="skrev litt til i kommentaren">
+      <created>1537344513137</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1537344513137</updated>
+    </task>
+    <task id="LOCAL-00011" summary="skrev litt til i kommentaren">
+      <created>1537452367305</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1537452367306</updated>
+    </task>
+    <task id="LOCAL-00012" summary="la til natas oppgaver">
+      <created>1538113612334</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1538113612335</updated>
+    </task>
+    <task id="LOCAL-00013" summary="la til natas oppgaver">
+      <created>1538114116547</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1538114116548</updated>
+    </task>
+    <task id="LOCAL-00014" summary="la til natas oppgaver">
+      <created>1538119541212</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1538119541212</updated>
+    </task>
+    <task id="LOCAL-00015" summary="did some things">
+      <created>1538149453825</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1538149453826</updated>
+    </task>
+    <task id="LOCAL-00016" summary="did some things">
+      <created>1540332100459</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1540332100459</updated>
+    </task>
+    <task id="LOCAL-00017" summary="rename, la til filer, fiksa ting">
+      <created>1540373657980</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1540373657980</updated>
+    </task>
+    <task id="LOCAL-00018" summary="non greier">
+      <created>1541530001312</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1541530001312</updated>
+    </task>
+    <task id="LOCAL-00019" summary="non greier">
+      <created>1541580052843</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1541580052843</updated>
+    </task>
+    <task id="LOCAL-00020" summary="prøva">
+      <created>1541587422170</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1541587422170</updated>
+    </task>
+    <task id="LOCAL-00021" summary="prøva">
+      <created>1542955383569</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1542955383570</updated>
+    </task>
+    <task id="LOCAL-00022" summary="....">
+      <created>1542955479527</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1542955479527</updated>
+    </task>
+    <task id="LOCAL-00023" summary="....">
+      <created>1542955590636</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1542955590636</updated>
+    </task>
+    <task id="LOCAL-00024" summary="heldags">
+      <created>1542964245471</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1542964245472</updated>
+    </task>
+    <task id="LOCAL-00025" summary="...">
+      <created>1543500788427</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1543500788427</updated>
+    </task>
+    <task id="LOCAL-00026" summary="filbehandling">
+      <created>1546422985499</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1546422985500</updated>
+    </task>
+    <task id="LOCAL-00027" summary="...">
+      <created>1546423031585</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1546423031585</updated>
+    </task>
+    <task id="LOCAL-00028" summary="...">
+      <created>1546425127207</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1546425127207</updated>
+    </task>
+    <task id="LOCAL-00029" summary="...">
+      <created>1547032804288</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1547032804289</updated>
+    </task>
+    <task id="LOCAL-00030" summary="...">
+      <created>1547636842192</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1547636842192</updated>
+    </task>
+    <task id="LOCAL-00031" summary="...">
+      <created>1547636865660</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1547636865660</updated>
+    </task>
+    <task id="LOCAL-00032" summary="...">
+      <created>1547850156948</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1547850156948</updated>
+    </task>
+    <task id="LOCAL-00033" summary="...">
+      <created>1550047668525</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1550047668525</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10207000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4964789" visible="true" weight="0.26652452" />
+      <window_info id="Structure" order="1" sideWeight="0.5010395" side_tool="true" weight="0.21499449" />
+      <window_info id="Favorites" order="2" sideWeight="0.5010395" side_tool="true" weight="0.21499449" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32939914" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5010661" weight="0.27974278" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.43669528" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32939914" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5010661" side_tool="true" weight="0.39055794" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49946696" weight="0.32939914" />
+      <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.4989339" weight="0.39055794" />
+      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.50319827" weight="0.19313304" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.13272922" />
+      <window_info anchor="right" id="R Graphics" order="4" weight="0.3296582" />
+      <window_info anchor="right" id="R Packages" order="5" weight="0.3296582" />
+      <window_info anchor="right" id="Database" order="6" weight="0.3296582" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4964789" visible="true" weight="0.13166311" />
+      <window_info id="Structure" order="1" sideWeight="0.5010395" side_tool="true" weight="0.21499449" />
+      <window_info id="Favorites" order="2" sideWeight="0.5010395" side_tool="true" weight="0.21499449" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32939914" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.28004292" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.43669528" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32939914" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.4968017" side_tool="true" weight="0.12553649" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49946696" weight="0.32939914" />
+      <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.49946696" visible="true" weight="0.39055794" />
+      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.50319827" weight="0.19313304" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.42004263" />
+      <window_info anchor="right" id="R Graphics" order="4" weight="0.3296582" />
+      <window_info anchor="right" id="R Packages" order="5" weight="0.3296582" />
+      <window_info anchor="right" id="Database" order="6" weight="0.3296582" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adding original files to projekt" />
+    <MESSAGE value="fiksa oppg.1 og fullførte oppgave 4" />
+    <MESSAGE value="jobba med oppgave 1-4 kapittel 7" />
+    <MESSAGE value="typo" />
+    <MESSAGE value="skrev litt til i kommentaren" />
+    <MESSAGE value="la til natas oppgaver" />
+    <MESSAGE value="did some things" />
+    <MESSAGE value="rename, la til filer, fiksa ting" />
+    <MESSAGE value="non greier" />
+    <MESSAGE value="prøva" />
+    <MESSAGE value="...." />
+    <MESSAGE value="heldags" />
+    <MESSAGE value="filbehandling" />
+    <MESSAGE value="..." />
+    <option name="LAST_COMMIT_MESSAGE" value="..." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+        <breakpoint enabled="true" type="javascript-exception">
+          <properties />
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/oppgaver i timen/plotting/Newtons meode/OE03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prøver/prøva.23.11.2018/oppg1a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="20" lean-forward="true" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prøver/prøva.23.11.2018/oppg1c.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prøver/prøva.23.11.2018/oppg1b.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="24" lean-forward="true" selection-start-line="1" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prøver/prøva.23.11.2018/oppg1d.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oppgaver i timen/r2 NDLA/1.4.4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oppgaver i timen/r2 NDLA/1.4.2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oppgaver i timen/r2 NDLA/1.4.1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="1" column="18" lean-forward="true" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prøver/prøva.23.11.2018/oppg2b.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prøver/prøva.23.11.2018/oppg2e.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="30" lean-forward="true" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prøver/prøva.23.11.2018/oppg2c.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prøver/prøva.23.11.2018/oppg2d.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="76" selection-start-line="13" selection-start-column="76" selection-end-line="13" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prøver/prøva.23.11.2018/oppg2f.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="20" lean-forward="true" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oppgaver i timen/derivasjon.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oppgaver i timen/optimalisering/es149.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oppgaver i timen/optimalisering/eksempel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oppgaver i timen/fagstoff-introduksjon-i-python/5.tegne grafer.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oppgaver i timen/fagstoff-introduksjon-i-python/4.moduler og biblioteker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-194">
+          <caret line="51" column="10" selection-start-line="51" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mens jeg kjeder meg/test av rare ting og moduler/com.py" />
+    <entry file="file://$PROJECT_DIR$/mens jeg kjeder meg/test av rare ting og moduler/test.spec" />
+    <entry file="file://$PROJECT_DIR$/prøver/prøva.23.11.2018/oppg2a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oppgaver i timen/fra tavla/matriser/matriser3.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oppgaver i timen/fra tavla/filer/res.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oppgaver i timen/fra tavla/filer/skrive til filer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oppgaver i timen/fra tavla/filer/lese fra filer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="7" column="15" selection-start-line="7" selection-end-line="7" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oppgaver i timen/fra tavla/filer/elbil1.0/batteristatus.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oppgaver i timen/fra tavla/filer/elbil1.0/batteristatus med with.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mens jeg kjeder meg/Referansemateriale/lambdaFunksjoner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oppgaver i timen/fra tavla/filer/elbil1.0/forbruk">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1428">
+          <caret line="84" column="3" selection-start-line="84" selection-start-column="3" selection-end-line="84" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oppgaver i timen/fra tavla/filer/elbil2.0/bilberegn1.3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oppgaver i timen/plotting/spredningsplott/spredningsplott.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oppgaver i timen/fra tavla/filer/elbil2.0/bilberegn1.1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="15" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oppgaver i timen/fra tavla/filer/elbil2.0/logfil">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oppgaver i timen/fra tavla/filer/elbil2.0/bilberegn1.2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oppgaver i timen/plotting/spredningsplott/spredningsplott.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oppgaver i timen/pygame/fotball/fotball.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="15" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oppgaver i timen/pygame/animasjon av modeller/animasjon av modeller.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oppgaver i timen/pygame/vanntank/fri tapping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oppgaver i timen/pygame/vanntank/konstant tapping en tank.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oppgaver i timen/pygame/vanntank/animasjon av vanntank.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="78" column="19" lean-forward="true" selection-start-line="78" selection-start-column="19" selection-end-line="78" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oppgaver i timen/fra tavla/filer/elbil2.0/bilberegn1.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="37" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oppgaver i timen/forklaring eulers metode" />
+    <entry file="file://$PROJECT_DIR$/oppgaver i timen/plotting/integrering/integrasjon.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oppgaver i timen/optimalisering/ny fil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oppgaver i timen/filene til frode/es149Diffb.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oppgaver i timen/filene til frode/es149DiffEyler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#58#89#0" expanded="true" />
+            <marker date="1547815608044" expanded="true" signature="503:504" ph="..." />
+            <marker date="1547815608044" expanded="true" signature="588:589" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mens jeg kjeder meg/life.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mens jeg kjeder meg/test av rare ting og moduler/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oppgaver i timen/læreboka/es160.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="749">
+          <caret line="50" column="19" selection-start-line="50" selection-start-column="19" selection-end-line="50" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mens jeg kjeder meg/racing game/game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="35" column="23" lean-forward="true" selection-start-line="34" selection-start-column="4" selection-end-line="35" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oppgaver i timen/pygame/vanntank/animasjon med stopp og kloss.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="80" column="24" selection-start-line="80" selection-start-column="24" selection-end-line="80" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

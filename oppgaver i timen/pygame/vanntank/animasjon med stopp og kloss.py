@@ -3,14 +3,20 @@ import pygame
 import math
 
 while True:
+    userDefinedHeight = 50
+    break
+
     try:
-        userDefinedHeight = int(input("skriv inn en høyde du vil at tanken skal ha (0-80): "))
+        userDefinedHeight = int(input("hvor høyt skal vi fylle med veske (0-80 cm): "))
         if 0 <= userDefinedHeight <= 80:
             break
         else:
-            userDefinedHeight = int("ø")
+            userDefinedHeight = int("ø") # bare for å kræsje testen slik at vi får
     except:
         print("prøv igjen")
+
+
+
 
 pygame.init()
 
@@ -35,8 +41,17 @@ timer_txt = pygame.font.SysFont('Consolas', 30)
 
 FmCmP = (500/8) #forhold mellom pixler og cm
 
-tankHoyde = userDefinedHeight/10*FmCmP
+tankHoyde = 80/10*FmCmP
 tankBredde = 5*FmCmP
+
+hoydepaaveske = userDefinedHeight/10*FmCmP
+
+hoydekloss = FmCmP * 2
+breddekloss =FmCmP * 2
+
+volumkloss = breddekloss* breddekloss * hoydekloss
+
+addTerning = False
 
 tank_params = {
     "left": CENTER_HORIZ - tankBredde/2,  # Trekker fra halvparten av bredden
@@ -53,11 +68,18 @@ tank_params = {
 level_change = 2
 
 
-print("dersom tanken er kvadratisk = {} liter \ndersom tanken er en sylynder = {} liter".format((tankHoyde/FmCmP)*(tankBredde/FmCmP)**2, ((tankBredde/FmCmP)/2)**2*math.pi*(tankHoyde/FmCmP)))
+print("dersom tanken er kvadratisk er volumet på vannet = {} liter \ndersom tanken er en sylynder er volumet på "
+      "vannet = {} liter".format((hoydepaaveske/FmCmP)*(tankBredde/FmCmP)**2, ((tankBredde/FmCmP)/2)**2*math.pi*(
+        hoydepaaveske/FmCmP)))
+
 while True:
     for event in pygame.event.get():
         if event.type == pygame.QUIT: sys.exit()
 
+    if pygame.key.get_pressed()[pygame.K_RETURN] != 0 and addTerning == False:
+        addTerning = True
+        level_change = 5
+        tank_params["level"] = min(tank_params["height"] ,hoydepaaveske+20*FmCmP)
     # Bakgrunnsfargen
     screen.fill(BLACK)
 
@@ -76,7 +98,7 @@ while True:
                      tank_params["border_width"])
 
     # Sjekk om vi har nådd topp eller bunn, og endre fortegn på level_change
-    if tank_params["level"] > tank_params["height"]:
+    if tank_params["level"] > hoydepaaveske:
         level_change *= 0
 
     # Endrer nivået i tanken
@@ -88,7 +110,8 @@ while True:
                     (CENTER_HORIZ,0),
                     (CENTER_HORIZ, tank_params["top"] + tank_params["height"] - tank_params["border_width"]), 4)
 
-    pygame.draw.rect(screen, (255,0,0), pygame.Rect(CENTER_HORIZ-FmCmP, CENTER_VERT + tankHoyde/2 - 2*FmCmP, FmCmP*2, FmCmP*2))
+    if addTerning:
+        pygame.draw.rect(screen, (255,0,0), pygame.Rect(CENTER_HORIZ-(breddekloss/2), CENTER_VERT + tankHoyde/2 - hoydekloss, hoydekloss, breddekloss))
 
     timer_string = "Medgått tid: {} sekunder".format(round(pygame.time.get_ticks() / 1000, 1))
     screen.blit(timer_txt.render(timer_string, True, LIGHT_GRAY), (CENTER_HORIZ // 2, 10))
