@@ -5,14 +5,14 @@ import numpy as np # importerer numpy (egentlig redundant siden den blir importe
 def getint(): # en funksjon som ikke stoper å kjøre før brukeren skriver inn et gyldig heltall
     while True:
         try:
-            return int(input("Skriv inn et heltall"))
+            return int(input("Skriv inn et heltall : "))
         except:
             print("prøv igjenn. du skre vikke inn et gyldig heltall")
 
 
 print("Grunnet måten programmet er utformet på må vi vite hvor \nmange år inn i fremtiden du antar du har lyst til å kalkulere. \n"+
       "Dette gjør at vi kan kalkulere med høyere presisjon det du vil.\n"+
-      "\n Skriv in et antall år du vil kalkulere")
+      "\nSkriv in et antall år du vil kalkulere")
 
 antAAr = np.abs(getint())
 
@@ -73,23 +73,7 @@ def getEtAar():
         else:
             print("du vlgte et år som som ikke var mer eller lik 0!")
 
-
-    nux = 0  # nermeste under index
-    nolx = 0  # nermeste over/lik
-    faa = 0  # folketall år
-    for counter, value in enumerate(x): # går i gjennom alle kalkulerte år og finner det året som er rett under og rettover/lik det som brukeren har skrevet inn
-        if value < BVAAR:
-            nux = counter
-        else:
-            nolx = counter
-            break
-
-    if np.abs(BVAAR - x[nolx]) < np.abs(BVAAR - x[nux]): # finner ut om året som var over eller under var det nermeste og lagrer dette i faa
-        faa = nolx
-    else:
-        faa = nux
-
-    return faa # returnerer faa, faa er en index og må brukes som det for å få noe data ut
+    return (np.where(x==min(x, key=lambda x: np.abs(x-BVAAR))))[0][0] # finner nermeste kalkulerte året til det som brukeren har skrevet inn
 
 
 # ______________________________________________________________________________________________
@@ -136,20 +120,7 @@ while True: # lagre brukerinputt med en folkemengde i en variabel, stopper ikke 
     else:
         print("du vlgte en mengde som var mindre enn 35000!")
 
-nux = 0  # nermeste under index
-nolx = 0  # nermeste over/lik
-fm = 0  # folkemengde
-for counter, value in enumerate(y): # går i gjennom alle kalkulerte folkemengder og finner den som er rett under og rettover/lik det som brukeren har skrevet inn
-    if value < BVF:
-        nux = counter
-    else:
-        nolx = counter
-        break
-
-if np.abs(BVF - y[nolx]) < np.abs(BVF - y[nux]): # velger den av de to nermsete som er nermset og lagrer den i fm (folkemengde)
-    fm = nolx
-else:
-    fm = nux
+fm = (np.where(y==min(y, key=lambda x: np.abs(x-BVF))))[0][0] # finner nermeste kalkulerte yverdi til det som brukeren har skrevet inn for folkemengde
 
 # fm er en index for hvor i lista med y verdier som var nermest den som brukeren skrev inn
 # da kan vi bruke den i begge lsiter for å finne y og x verdiene ( selv om vi vet y for di det var jo den som var nermest det brukeren skrev inn)
