@@ -21,3 +21,4 @@ def Euler(f, xa, xb, ya, n):
 def yder(x,y):
     return
 
+# under konstruksjon......
