@@ -75,6 +75,21 @@ def getEtAar():
 
     return (np.where(x==min(x, key=lambda x: np.abs(x-BVAAR))))[0][0] # finner nermeste kalkulerte året til det som brukeren har skrevet inn
 
+def getBYFolketall():
+    while True:  # lagre brukerinputt med en folkemengde i en variabel, stopper ikke før du taster inn en større eller lik 35000
+        print("velg en mengde")
+        BVF = getFloat()  # bruker valgt folkemende
+        if BVF >= 35000:
+            break
+        else:
+            print("du vlgte en mengde som var mindre enn 35000!")
+
+    fm = (np.where(y == min(y, key=lambda x: np.abs(x - BVF))))[0][
+        0]  # finner nermeste kalkulerte yverdi til det som brukeren har skrevet inn for folkemengde
+
+    # fm er en index for hvor i lista med y verdier som var nermest den som brukeren skrev inn
+    # da kan vi bruke den i begge lsiter for å finne y og x verdiene ( selv om vi vet y for di det var jo den som var nermest det brukeren skrev inn)
+    return fm
 
 # ______________________________________________________________________________________________
 
@@ -112,20 +127,9 @@ print("stigningen i folketallet dette året er : ", yder(y[EtAArValgtAvBrukeren]
 print("\n\noppgave d)")
 print("skriv inn antall folk og finn ut når det var så mange (må velge mer enn 35000)")
 
-while True: # lagre brukerinputt med en folkemengde i en variabel, stopper ikke før du taster inn en større eller lik 35000
-    print("velg en mengde")
-    BVF = getFloat()  # bruker valgt folkemende
-    if BVF >= 35000:
-        break
-    else:
-        print("du vlgte en mengde som var mindre enn 35000!")
+EtFolketallValgtAvBrukeren = getBYFolketall() # indexen til den nermeste kalkulerte folketallet mtp det btrukeren skriver inn
 
-fm = (np.where(y==min(y, key=lambda x: np.abs(x-BVF))))[0][0] # finner nermeste kalkulerte yverdi til det som brukeren har skrevet inn for folkemengde
-
-# fm er en index for hvor i lista med y verdier som var nermest den som brukeren skrev inn
-# da kan vi bruke den i begge lsiter for å finne y og x verdiene ( selv om vi vet y for di det var jo den som var nermest det brukeren skrev inn)
-
-print("nermeste folkemengde kalkulert er: ", y[fm])
-print("det var det folketallet i dette år-et  : ", x[fm])
+print("nermeste folkemengde kalkulert er: ", y[EtFolketallValgtAvBrukeren])
+print("det var det folketallet i dette år-et  : ", x[EtFolketallValgtAvBrukeren])
 
 
