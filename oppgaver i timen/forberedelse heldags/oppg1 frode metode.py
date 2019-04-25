@@ -1,10 +1,30 @@
 from pylab import *  # importerer pakke
 import numpy as np # importerer numpy (egentlig redundant siden den blir importer t av pylab så blir sikker t fjernet i fremtidig utgaver av programmet)
 
+
+def getint(): # en funksjon som ikke stoper å kjøre før brukeren skriver inn et gyldig heltall
+    while True:
+        try:
+            return int(input("Skriv inn et heltall"))
+        except:
+            print("prøv igjenn. du skre vikke inn et gyldig heltall")
+
+
+print("Grunnet måten programmet er utformet på må vi vite hvor \nmange år inn i fremtiden du antar du har lyst til å kalkulere. \n"+
+      "Dette gjør at vi kan kalkulere med høyere presisjon det du vil.\n"+
+      "\n Skriv in et antall år du vil kalkulere")
+
+antAAr = np.abs(getint())
+
+print("skriv in presisjonen du vil ha på kalkuleringen 100 er lite og 10000 er grei presisjon : ")
+presisjon = getint()
+
+
+
 # Tidssteg
-N = 100000  # antall intervaller (hvor nøye vi skal kalkulere med eulers metode )
+N = presisjon  # antall intervaller (hvor nøye vi skal kalkulere med eulers metode ) (definert med presisjonen brukeren shriver inn)
 a = 0.0  # startverdi x
-b = 30.0  # sluttverdi x
+b = antAAr  # sluttverdi x (definert med antall år brukeren shriver inn)
 h = (b - a) / (N - 1)  # steglengde beregnet mtp antall intervaller
 y0 = 35000  # initial(start)verdi for y
 
@@ -133,5 +153,8 @@ else:
 
 # fm er en index for hvor i lista med y verdier som var nermest den som brukeren skrev inn
 # da kan vi bruke den i begge lsiter for å finne y og x verdiene ( selv om vi vet y for di det var jo den som var nermest det brukeren skrev inn)
+
 print("nermeste folkemengde kalkulert er: ", y[fm])
 print("det var det folketallet i dette år-et  : ", x[fm])
+
+
