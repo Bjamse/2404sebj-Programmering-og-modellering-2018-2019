@@ -1,8 +1,8 @@
 from pylab import *  # importerer pakke
-import numpy as np # importerer numpy (egentlig redundant siden den blir importer t av pylab så blir sikker t fjernet i fremtidig utgaver av programmet)
+import numpy as np  # importerer numpy (egentlig redundant siden den blir importer t av pylab så blir sikker t fjernet i fremtidig utgaver av programmet)
 
 
-def getint(): # en funksjon som ikke stoper å kjøre før brukeren skriver inn et gyldig heltall
+def getint():  # en funksjon som ikke stoper å kjøre før brukeren skriver inn et gyldig heltall
     while True:
         try:
             return int(input("Skriv inn et heltall : "))
@@ -10,16 +10,15 @@ def getint(): # en funksjon som ikke stoper å kjøre før brukeren skriver inn 
             print("prøv igjenn. du skre vikke inn et gyldig heltall")
 
 
-print("Grunnet måten programmet er utformet på må vi vite hvor \nmange år inn i fremtiden du antar du har lyst til å kalkulere. \n"+
-      "Dette gjør at vi kan kalkulere med høyere presisjon det du vil.\n"+
-      "\nSkriv in et antall år du vil kalkulere")
+print(
+    "Grunnet måten programmet er utformet på må vi vite hvor \nmange år inn i fremtiden du antar du har lyst til å kalkulere. \n" +
+    "Dette gjør at vi kan kalkulere med høyere presisjon det du vil.\n" +
+    "\nSkriv in et antall år du vil kalkulere")
 
 antAAr = np.abs(getint())
 
 print("skriv in presisjonen du vil ha på kalkuleringen 100 er lite og 10000 er grei presisjon : ")
 presisjon = getint()
-
-
 
 # Tidssteg
 N = presisjon  # antall intervaller (hvor nøye vi skal kalkulere med eulers metode ) (definert med presisjonen brukeren shriver inn)
@@ -40,7 +39,7 @@ def yder(y, x):
 x = zeros(N)
 y = zeros(N)
 
-y[0] = y0 # setter første punkt i ylista til å være initsialverdien for y
+y[0] = y0  # setter første punkt i ylista til å være initsialverdien for y
 
 # Eulers metode
 for i in range(N - 1):
@@ -50,7 +49,7 @@ for i in range(N - 1):
 
 # funksjonenr som blir brukt i besvarelsen
 # ----------------------------------------------------------------------------------------------------
-def getFloat(): # denne funksjonen får brukeren til å skrive inn et tall om nekter å stoppe å spørre før den får en gyldig float
+def getFloat():  # denne funksjonen får brukeren til å skrive inn et tall om nekter å stoppe å spørre før den får en gyldig float
     while True:
         try:
             return float(input("skriv inn et tall: "))
@@ -62,18 +61,19 @@ def getFloat(): # denne funksjonen får brukeren til å skrive inn et tall om ne
 # returnerer en float med indexen til året som var nermest
 # bør ikke kalles før euklers funksjon er kjørt minst en gang!!!!
 # kommer til å fæile...
-def getEtAar():
-
-    while True: # lagre en brukerinputt med et år i en variabel
+def getByAar():
+    while True:  # lagre en brukerinputt med et år i en variabel
         print("velg et år mer eller lik enn 0")
         BVAAR = getFloat()  # bruker valgt år
 
-        if BVAAR >= 0: # hvis brukeren skrev inn et år som var mindre enn 0 så blir Han/hun ødt tyil å prøve på nytt
+        if BVAAR >= 0:  # hvis brukeren skrev inn et år som var mindre enn 0 så blir Han/hun ødt tyil å prøve på nytt
             break
         else:
             print("du vlgte et år som som ikke var mer eller lik 0!")
 
-    return (np.where(x==min(x, key=lambda x: np.abs(x-BVAAR))))[0][0] # finner nermeste kalkulerte året til det som brukeren har skrevet inn
+    return (np.where(x == min(x, key=lambda x: np.abs(x - BVAAR))))[0][
+        0]  # finner nermeste kalkulerte året til det som brukeren har skrevet inn
+
 
 def getBYFolketall():
     while True:  # lagre brukerinputt med en folkemengde i en variabel, stopper ikke før du taster inn en større eller lik 35000
@@ -91,14 +91,13 @@ def getBYFolketall():
     # da kan vi bruke den i begge lsiter for å finne y og x verdiene ( selv om vi vet y for di det var jo den som var nermest det brukeren skrev inn)
     return fm
 
+
 # ______________________________________________________________________________________________
-
-
 
 
 # oppgave a)
 print("oppgave a\n")
-print("oppgave a er plottet som blir vist") # plotter diffligninga
+print("oppgave a er plottet som blir vist")  # plotter diffligninga
 plot(x, y)
 grid(True)  # slår på rytenett
 show()
@@ -108,7 +107,7 @@ show()
 print("\n\noppgave b) \n")
 print("velg et år å finne folketallet til")
 
-EtAArValgtAvBrukeren = getEtAar() # indexen til det nermeste kalkulerte året mtp det brukeren taster inn
+EtAArValgtAvBrukeren = getByAar()  # indexen til det nermeste kalkulerte året mtp det brukeren taster inn
 
 print("nermeste året kalkulert er året: ", x[EtAArValgtAvBrukeren])
 print("folketallet dette året er : ", y[EtAArValgtAvBrukeren])
@@ -118,7 +117,7 @@ print("folketallet dette året er : ", y[EtAArValgtAvBrukeren])
 print("\n\noppgave c) \n")
 print("finn økningen et år")
 
-EtAArValgtAvBrukeren = getEtAar() # indexen til det nermeste kalkulerte året mtp det brukeren taster inn
+EtAArValgtAvBrukeren = getByAar()  # indexen til det nermeste kalkulerte året mtp det brukeren taster inn
 
 print("nermeste året kalkulert er året: ", x[EtAArValgtAvBrukeren])
 print("stigningen i folketallet dette året er : ", yder(y[EtAArValgtAvBrukeren], 0))
@@ -127,9 +126,7 @@ print("stigningen i folketallet dette året er : ", yder(y[EtAArValgtAvBrukeren]
 print("\n\noppgave d)")
 print("skriv inn antall folk og finn ut når det var så mange (må velge mer enn 35000)")
 
-EtFolketallValgtAvBrukeren = getBYFolketall() # indexen til den nermeste kalkulerte folketallet mtp det btrukeren skriver inn
+EtFolketallValgtAvBrukeren = getBYFolketall()  # indexen til den nermeste kalkulerte folketallet mtp det btrukeren skriver inn
 
 print("nermeste folkemengde kalkulert er: ", y[EtFolketallValgtAvBrukeren])
 print("det var det folketallet i dette år-et  : ", x[EtFolketallValgtAvBrukeren])
-
-
